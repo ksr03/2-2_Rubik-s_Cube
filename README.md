@@ -1,12 +1,14 @@
 # 概要
 大学の授業の自由制作で作成した、2×2ルービックキューブを動かせるプログラムのソースコードです。
 <br><br>
-![ss1](https://github.com/ksr03/2-2_Rubik-s_Cube/assets/117695575/29e25183-a651-4092-974d-20bd66fd00cb)
-![ss2](https://github.com/ksr03/2-2_Rubik-s_Cube/assets/117695575/97e22c46-44eb-4b7e-9f41-a927c2fc8903)
-![ss3](https://github.com/ksr03/2-2_Rubik-s_Cube/assets/117695575/8a0e2fbf-a1b3-4194-90b8-9878338e55cd)
-![ss4](https://github.com/ksr03/2-2_Rubik-s_Cube/assets/117695575/55365495-a7ff-4f66-820c-09e40eb1213a)
-
-
+<p>
+  <img src='https://github.com/ksr03/2-2_Rubik-s_Cube/assets/117695575/27bc2439-2584-4173-aece-e9c676bcf948' alt='画像1' />
+  <img src='https://github.com/ksr03/2-2_Rubik-s_Cube/assets/117695575/0ef2b120-0a5e-4fa6-856d-62a55a76ab06' alt='画像2' />
+</p>
+<p>
+  <img src='https://github.com/ksr03/2-2_Rubik-s_Cube/assets/117695575/7ce4652a-174b-489e-bebf-06451f665ee2' alt='画像3' />
+  <img src='https://github.com/ksr03/2-2_Rubik-s_Cube/assets/117695575/5e9715bf-fa31-4157-8516-619e05df0336' alt='画像4' />
+</p>
 <br><br>
 
 ## 🔷 目的
